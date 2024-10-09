@@ -1,0 +1,10 @@
+# Ignore large files
+job_summary.csv
+postings.csv
+
+# Other common ignores
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.pyc
